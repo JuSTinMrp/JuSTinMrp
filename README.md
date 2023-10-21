@@ -5,7 +5,7 @@
 
 <p align="center">I'm always looking forward for an opportunity to do better and achieve greatness, which helps me learn advanced security skills.</p>
 
-![Hacking](/resources/bg.gif)
+<div align="center"><img src="/resources/bg.gif" width="250" height="250"/></div>
 
 <div align="center">
 <h2>🌐 Connect with me</h2>
