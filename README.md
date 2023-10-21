@@ -1,11 +1,9 @@
-<p align="center"><b>An enthusiastic security researcher and junior penetration tester with proficient learning experience with good understanding of information security.</b></p>
+## Ram Praveen M
+<p align="center"><b>💫 An enthusiastic security researcher and junior penetration tester with proficient learning experience with good understanding of information security.</b></p>
 
 <p align="center">Skilled with various domains of cyber security including application security, Network Security, Endpoint detection and Event management, Auditing and Penetration testing, Automotive hacking, Internet of Things (IoT) Security and some initiatives in Cloud security, Active directory pentest, Malware development, Devsecops...</p>
 
 <p align="center">I'm always looking forward for an opportunity to do better and achieve greatness, which helps me learn advanced security skills.</p>
-
-# 💫 About Me:
-An enthusiastic security researcher and junior penetration tester with proficient learning experience with good understanding of information security.<br><br>Skilled with various domains of cyber security including application security, Network Security, Endpoint detection and Event management, Auditing and Penetration testing, Automotive hacking, Internet of Things (IoT) Security and some initiatives in Cloud security, Active directory pentest, Malware development, Devsecops...<br><br>I'm always looking forward for an opportunity to do better and achieve greatness, which helps me learn advanced security skills.
 
 
 ## 🌐 Socials:
@@ -19,7 +17,7 @@ An enthusiastic security researcher and junior penetration tester with proficien
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuSTinMrp&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JuSTinMrp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=JuSTinMrp&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JuSTinMrp&icon=6&color=0)](https://visitcount.itsvg.in)
