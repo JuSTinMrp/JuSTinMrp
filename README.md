@@ -5,6 +5,8 @@
 
 <p align="center">I'm always looking forward for an opportunity to do better and achieve greatness, which helps me learn advanced security skills.</p>
 
+![Tux, the Linux mascot](/assets/images/tux.png)
+
 <div align="center">
 <h2>🌐 Connect with me</h2>
 <a href="https://linkedin.com/in/ram-praveen"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
