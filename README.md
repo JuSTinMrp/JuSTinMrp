@@ -5,7 +5,7 @@
 
 <p align="center">I'm always looking forward for an opportunity to do better and achieve greatness, which helps me learn advanced security skills.</p>
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Hacking](/resources/bg.gif)
 
 <div align="center">
 <h2>🌐 Connect with me</h2>
