@@ -29,7 +29,7 @@
 <div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=JuSTinMrp&limit=5&theme=midnight-purple&hide_border=true&combine_all_yearly_contributions=true" align="center" /></div> -->
 
 <h3 align="center">Languages Used</h3>
-<div align="center"><img src="![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuSTinMrp&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuSTinMrp&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>
 
 
 <!-- ---
