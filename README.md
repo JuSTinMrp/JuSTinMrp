@@ -2,7 +2,7 @@
 <p align="center"><b>An enthusiastic security researcher and junior penetration tester with proficient learning experience with good understanding of information security.</b></p>
 
 <p align="center">Skilled with various domains of cyber security including application security, Network Security, Endpoint detection and Event management, Auditing and Penetration testing, Automotive hacking, Internet of Things (IoT) Security and some initiatives in Cloud security, Active directory pentest, Malware development, Devsecops...</p>
-<--
+<!--
 <p align="center">I'm always looking forward for an opportunity to do better and achieve greatness, which helps me learn advanced security skills.</p>-->
 
 <div align="center"><img src="/resources/bg.gif" width="50%" height="50%"/></div>
