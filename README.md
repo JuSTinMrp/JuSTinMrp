@@ -5,7 +5,7 @@
 <!--
 <p align="center">I'm always looking forward for an opportunity to do better and achieve greatness, which helps me learn advanced security skills.</p>-->
 
-<div align="center"><img src="/resources/hacker.gif"></div>
+<div align="center"><img src="/resources/hacker.gif" height="80%"/></div>
 
 <div align="center">
 <h2>🌐 Connect with me</h2>
